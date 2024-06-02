@@ -1,0 +1,132 @@
+scoreboard-animated:
+  title:
+    update-rate: 1 #In ticks
+    lines:
+    - "&#DB3AE4&l&nP&#D047E6&l&na&#C554E9&l&ni&#B962EB&l&ns&#AE6FEE&l&na&#A37CF0&l&nn&#9889F3&l&no&#8D96F5&l&nC&#82A3F8&l&nr&#76B1FA&l&na&#6BBEFD&l&nf&#60CBFF&l&nt"
+    - "&#D047E6&l&nP&#DB3AE4&l&na&#D047E6&l&ni&#C554E9&l&ns&#B962EB&l&na&#AE6FEE&l&nn&#A37CF0&l&no&#9889F3&l&nC&#8D96F5&l&nr&#82A3F8&l&na&#76B1FA&l&nf&#6BBEFD&l&nt"
+    - "&#C554E9&l&nP&#D047E6&l&na&#DB3AE4&l&ni&#D047E6&l&ns&#C554E9&l&na&#B962EB&l&nn&#AE6FEE&l&no&#A37CF0&l&nC&#9889F3&l&nr&#8D96F5&l&na&#82A3F8&l&nf&#76B1FA&l&nt"
+    - "&#B962EB&l&nP&#C554E9&l&na&#D047E6&l&ni&#DB3AE4&l&ns&#D047E6&l&na&#C554E9&l&nn&#B962EB&l&no&#AE6FEE&l&nC&#A37CF0&l&nr&#9889F3&l&na&#8D96F5&l&nf&#82A3F8&l&nt"
+    - "&#AE6FEE&l&nP&#B962EB&l&na&#C554E9&l&ni&#D047E6&l&ns&#DB3AE4&l&na&#D047E6&l&nn&#C554E9&l&no&#B962EB&l&nC&#AE6FEE&l&nr&#A37CF0&l&na&#9889F3&l&nf&#8D96F5&l&nt"
+    - "&#A37CF0&l&nP&#AE6FEE&l&na&#B962EB&l&ni&#C554E9&l&ns&#D047E6&l&na&#DB3AE4&l&nn&#D047E6&l&no&#C554E9&l&nC&#B962EB&l&nr&#AE6FEE&l&na&#A37CF0&l&nf&#9889F3&l&nt"
+    - "&#9889F3&l&nP&#A37CF0&l&na&#AE6FEE&l&ni&#B962EB&l&ns&#C554E9&l&na&#D047E6&l&nn&#DB3AE4&l&no&#D047E6&l&nC&#C554E9&l&nr&#B962EB&l&na&#AE6FEE&l&nf&#A37CF0&l&nt"
+    - "&#8D96F5&l&nP&#9889F3&l&na&#A37CF0&l&ni&#AE6FEE&l&ns&#B962EB&l&na&#C554E9&l&nn&#D047E6&l&no&#DB3AE4&l&nC&#D047E6&l&nr&#C554E9&l&na&#B962EB&l&nf&#AE6FEE&l&nt"
+    - "&#82A3F8&l&nP&#8D96F5&l&na&#9889F3&l&ni&#A37CF0&l&ns&#AE6FEE&l&na&#B962EB&l&nn&#C554E9&l&no&#D047E6&l&nC&#DB3AE4&l&nr&#D047E6&l&na&#C554E9&l&nf&#B962EB&l&nt"
+    - "&#76B1FA&l&nP&#82A3F8&l&na&#8D96F5&l&ni&#9889F3&l&ns&#A37CF0&l&na&#AE6FEE&l&nn&#B962EB&l&no&#C554E9&l&nC&#D047E6&l&nr&#DB3AE4&l&na&#D047E6&l&nf&#C554E9&l&nt"
+    - "&#6BBEFD&l&nP&#76B1FA&l&na&#82A3F8&l&ni&#8D96F5&l&ns&#9889F3&l&na&#A37CF0&l&nn&#AE6FEE&l&no&#B962EB&l&nC&#C554E9&l&nr&#D047E6&l&na&#DB3AE4&l&nf&#D047E6&l&nt"
+    - "&#60CBFF&l&nP&#6BBEFD&l&na&#76B1FA&l&ni&#82A3F8&l&ns&#8D96F5&l&na&#9889F3&l&nn&#A37CF0&l&no&#AE6FEE&l&nC&#B962EB&l&nr&#C554E9&l&na&#D047E6&l&nf&#DB3AE4&l&nt"
+    - "&#6BBEFD&l&nP&#60CBFF&l&na&#6BBEFD&l&ni&#76B1FA&l&ns&#82A3F8&l&na&#8D96F5&l&nn&#9889F3&l&no&#A37CF0&l&nC&#AE6FEE&l&nr&#B962EB&l&na&#C554E9&l&nf&#D047E6&l&nt"
+    - "&#76B1FA&l&nP&#6BBEFD&l&na&#60CBFF&l&ni&#6BBEFD&l&ns&#76B1FA&l&na&#82A3F8&l&nn&#8D96F5&l&no&#9889F3&l&nC&#A37CF0&l&nr&#AE6FEE&l&na&#B962EB&l&nf&#C554E9&l&nt"
+    - "&#82A3F8&l&nP&#76B1FA&l&na&#6BBEFD&l&ni&#60CBFF&l&ns&#6BBEFD&l&na&#76B1FA&l&nn&#82A3F8&l&no&#8D96F5&l&nC&#9889F3&l&nr&#A37CF0&l&na&#AE6FEE&l&nf&#B962EB&l&nt"
+    - "&#8D96F5&l&nP&#82A3F8&l&na&#76B1FA&l&ni&#6BBEFD&l&ns&#60CBFF&l&na&#6BBEFD&l&nn&#76B1FA&l&no&#82A3F8&l&nC&#8D96F5&l&nr&#9889F3&l&na&#A37CF0&l&nf&#AE6FEE&l&nt"
+    - "&#9889F3&l&nP&#8D96F5&l&na&#82A3F8&l&ni&#76B1FA&l&ns&#6BBEFD&l&na&#60CBFF&l&nn&#6BBEFD&l&no&#76B1FA&l&nC&#82A3F8&l&nr&#8D96F5&l&na&#9889F3&l&nf&#A37CF0&l&nt"
+    - "&#A37CF0&l&nP&#9889F3&l&na&#8D96F5&l&ni&#82A3F8&l&ns&#76B1FA&l&na&#6BBEFD&l&nn&#60CBFF&l&no&#6BBEFD&l&nC&#76B1FA&l&nr&#82A3F8&l&na&#8D96F5&l&nf&#9889F3&l&nt"
+    - "&#AE6FEE&l&nP&#A37CF0&l&na&#9889F3&l&ni&#8D96F5&l&ns&#82A3F8&l&na&#76B1FA&l&nn&#6BBEFD&l&no&#60CBFF&l&nC&#6BBEFD&l&nr&#76B1FA&l&na&#82A3F8&l&nf&#8D96F5&l&nt"
+    - "&#B962EB&l&nP&#AE6FEE&l&na&#A37CF0&l&ni&#9889F3&l&ns&#8D96F5&l&na&#82A3F8&l&nn&#76B1FA&l&no&#6BBEFD&l&nC&#60CBFF&l&nr&#6BBEFD&l&na&#76B1FA&l&nf&#82A3F8&l&nt"
+    - "&#C554E9&l&nP&#B962EB&l&na&#AE6FEE&l&ni&#A37CF0&l&ns&#9889F3&l&na&#8D96F5&l&nn&#82A3F8&l&no&#76B1FA&l&nC&#6BBEFD&l&nr&#60CBFF&l&na&#6BBEFD&l&nf&#76B1FA&l&nt"
+    - "&#D047E6&l&nP&#C554E9&l&na&#B962EB&l&ni&#AE6FEE&l&ns&#A37CF0&l&na&#9889F3&l&nn&#8D96F5&l&no&#82A3F8&l&nC&#76B1FA&l&nr&#6BBEFD&l&na&#60CBFF&l&nf&#6BBEFD&l&nt"
+  score-lines:
+    0:
+      update-rate: 1 #In ticks
+      lines:
+      - "&#084CFB+&#1256FB―&#1D61FB―&#276BFB―&#3176FC―&#3C80FC―&#468BFC―&#5095FC―&#5BA0FC―&#65AAFC―&#6FB4FC―&#79BFFC―&#84C9FD―&#8ED4FD―&#98DEFD―&#A3E9FD―&#ADF3FD+"
+      - "&#1256FB+&#084CFB―&#1256FB―&#1D61FB―&#276BFB―&#3176FC―&#3C80FC―&#468BFC―&#5095FC―&#5BA0FC―&#65AAFC―&#6FB4FC―&#79BFFC―&#84C9FD―&#8ED4FD―&#98DEFD―&#A3E9FD+"
+      - "&#1D61FB+&#1256FB―&#084CFB―&#1256FB―&#1D61FB―&#276BFB―&#3176FC―&#3C80FC―&#468BFC―&#5095FC―&#5BA0FC―&#65AAFC―&#6FB4FC―&#79BFFC―&#84C9FD―&#8ED4FD―&#98DEFD+"
+      - "&#276BFB+&#1D61FB―&#1256FB―&#084CFB―&#1256FB―&#1D61FB―&#276BFB―&#3176FC―&#3C80FC―&#468BFC―&#5095FC―&#5BA0FC―&#65AAFC―&#6FB4FC―&#79BFFC―&#84C9FD―&#8ED4FD+"
+      - "&#3176FC+&#276BFB―&#1D61FB―&#1256FB―&#084CFB―&#1256FB―&#1D61FB―&#276BFB―&#3176FC―&#3C80FC―&#468BFC―&#5095FC―&#5BA0FC―&#65AAFC―&#6FB4FC―&#79BFFC―&#84C9FD+"
+      - "&#3C80FC+&#3176FC―&#276BFB―&#1D61FB―&#1256FB―&#084CFB―&#1256FB―&#1D61FB―&#276BFB―&#3176FC―&#3C80FC―&#468BFC―&#5095FC―&#5BA0FC―&#65AAFC―&#6FB4FC―&#79BFFC+"
+      - "&#468BFC+&#3C80FC―&#3176FC―&#276BFB―&#1D61FB―&#1256FB―&#084CFB―&#1256FB―&#1D61FB―&#276BFB―&#3176FC―&#3C80FC―&#468BFC―&#5095FC―&#5BA0FC―&#65AAFC―&#6FB4FC+"
+      - "&#5095FC+&#468BFC―&#3C80FC―&#3176FC―&#276BFB―&#1D61FB―&#1256FB―&#084CFB―&#1256FB―&#1D61FB―&#276BFB―&#3176FC―&#3C80FC―&#468BFC―&#5095FC―&#5BA0FC―&#65AAFC+"
+      - "&#5BA0FC+&#5095FC―&#468BFC―&#3C80FC―&#3176FC―&#276BFB―&#1D61FB―&#1256FB―&#084CFB―&#1256FB―&#1D61FB―&#276BFB―&#3176FC―&#3C80FC―&#468BFC―&#5095FC―&#5BA0FC+"
+      - "&#65AAFC+&#5BA0FC―&#5095FC―&#468BFC―&#3C80FC―&#3176FC―&#276BFB―&#1D61FB―&#1256FB―&#084CFB―&#1256FB―&#1D61FB―&#276BFB―&#3176FC―&#3C80FC―&#468BFC―&#5095FC+"
+      - "&#6FB4FC+&#65AAFC―&#5BA0FC―&#5095FC―&#468BFC―&#3C80FC―&#3176FC―&#276BFB―&#1D61FB―&#1256FB―&#084CFB―&#1256FB―&#1D61FB―&#276BFB―&#3176FC―&#3C80FC―&#468BFC+"
+      - "&#79BFFC+&#6FB4FC―&#65AAFC―&#5BA0FC―&#5095FC―&#468BFC―&#3C80FC―&#3176FC―&#276BFB―&#1D61FB―&#1256FB―&#084CFB―&#1256FB―&#1D61FB―&#276BFB―&#3176FC―&#3C80FC+"
+      - "&#84C9FD+&#79BFFC―&#6FB4FC―&#65AAFC―&#5BA0FC―&#5095FC―&#468BFC―&#3C80FC―&#3176FC―&#276BFB―&#1D61FB―&#1256FB―&#084CFB―&#1256FB―&#1D61FB―&#276BFB―&#3176FC+"
+      - "&#8ED4FD+&#84C9FD―&#79BFFC―&#6FB4FC―&#65AAFC―&#5BA0FC―&#5095FC―&#468BFC―&#3C80FC―&#3176FC―&#276BFB―&#1D61FB―&#1256FB―&#084CFB―&#1256FB―&#1D61FB―&#276BFB+"
+      - "&#98DEFD+&#8ED4FD―&#84C9FD―&#79BFFC―&#6FB4FC―&#65AAFC―&#5BA0FC―&#5095FC―&#468BFC―&#3C80FC―&#3176FC―&#276BFB―&#1D61FB―&#1256FB―&#084CFB―&#1256FB―&#1D61FB+"
+      - "&#A3E9FD+&#98DEFD―&#8ED4FD―&#84C9FD―&#79BFFC―&#6FB4FC―&#65AAFC―&#5BA0FC―&#5095FC―&#468BFC―&#3C80FC―&#3176FC―&#276BFB―&#1D61FB―&#1256FB―&#084CFB―&#1256FB+"
+      - "&#ADF3FD+&#A3E9FD―&#98DEFD―&#8ED4FD―&#84C9FD―&#79BFFC―&#6FB4FC―&#65AAFC―&#5BA0FC―&#5095FC―&#468BFC―&#3C80FC―&#3176FC―&#276BFB―&#1D61FB―&#1256FB―&#084CFB+"
+      - "&#A3E9FD+&#ADF3FD―&#A3E9FD―&#98DEFD―&#8ED4FD―&#84C9FD―&#79BFFC―&#6FB4FC―&#65AAFC―&#5BA0FC―&#5095FC―&#468BFC―&#3C80FC―&#3176FC―&#276BFB―&#1D61FB―&#1256FB+"
+      - "&#98DEFD+&#A3E9FD―&#ADF3FD―&#A3E9FD―&#98DEFD―&#8ED4FD―&#84C9FD―&#79BFFC―&#6FB4FC―&#65AAFC―&#5BA0FC―&#5095FC―&#468BFC―&#3C80FC―&#3176FC―&#276BFB―&#1D61FB+"
+      - "&#8ED4FD+&#98DEFD―&#A3E9FD―&#ADF3FD―&#A3E9FD―&#98DEFD―&#8ED4FD―&#84C9FD―&#79BFFC―&#6FB4FC―&#65AAFC―&#5BA0FC―&#5095FC―&#468BFC―&#3C80FC―&#3176FC―&#276BFB+"
+      - "&#84C9FD+&#8ED4FD―&#98DEFD―&#A3E9FD―&#ADF3FD―&#A3E9FD―&#98DEFD―&#8ED4FD―&#84C9FD―&#79BFFC―&#6FB4FC―&#65AAFC―&#5BA0FC―&#5095FC―&#468BFC―&#3C80FC―&#3176FC+"
+      - "&#79BFFC+&#84C9FD―&#8ED4FD―&#98DEFD―&#A3E9FD―&#ADF3FD―&#A3E9FD―&#98DEFD―&#8ED4FD―&#84C9FD―&#79BFFC―&#6FB4FC―&#65AAFC―&#5BA0FC―&#5095FC―&#468BFC―&#3C80FC+"
+      - "&#6FB4FC+&#79BFFC―&#84C9FD―&#8ED4FD―&#98DEFD―&#A3E9FD―&#ADF3FD―&#A3E9FD―&#98DEFD―&#8ED4FD―&#84C9FD―&#79BFFC―&#6FB4FC―&#65AAFC―&#5BA0FC―&#5095FC―&#468BFC+"
+      - "&#65AAFC+&#6FB4FC―&#79BFFC―&#84C9FD―&#8ED4FD―&#98DEFD―&#A3E9FD―&#ADF3FD―&#A3E9FD―&#98DEFD―&#8ED4FD―&#84C9FD―&#79BFFC―&#6FB4FC―&#65AAFC―&#5BA0FC―&#5095FC+"
+      - "&#5BA0FC+&#65AAFC―&#6FB4FC―&#79BFFC―&#84C9FD―&#8ED4FD―&#98DEFD―&#A3E9FD―&#ADF3FD―&#A3E9FD―&#98DEFD―&#8ED4FD―&#84C9FD―&#79BFFC―&#6FB4FC―&#65AAFC―&#5BA0FC+"
+      - "&#5095FC+&#5BA0FC―&#65AAFC―&#6FB4FC―&#79BFFC―&#84C9FD―&#8ED4FD―&#98DEFD―&#A3E9FD―&#ADF3FD―&#A3E9FD―&#98DEFD―&#8ED4FD―&#84C9FD―&#79BFFC―&#6FB4FC―&#65AAFC+"
+      - "&#468BFC+&#5095FC―&#5BA0FC―&#65AAFC―&#6FB4FC―&#79BFFC―&#84C9FD―&#8ED4FD―&#98DEFD―&#A3E9FD―&#ADF3FD―&#A3E9FD―&#98DEFD―&#8ED4FD―&#84C9FD―&#79BFFC―&#6FB4FC+"
+      - "&#3C80FC+&#468BFC―&#5095FC―&#5BA0FC―&#65AAFC―&#6FB4FC―&#79BFFC―&#84C9FD―&#8ED4FD―&#98DEFD―&#A3E9FD―&#ADF3FD―&#A3E9FD―&#98DEFD―&#8ED4FD―&#84C9FD―&#79BFFC+"
+      - "&#3176FC+&#3C80FC―&#468BFC―&#5095FC―&#5BA0FC―&#65AAFC―&#6FB4FC―&#79BFFC―&#84C9FD―&#8ED4FD―&#98DEFD―&#A3E9FD―&#ADF3FD―&#A3E9FD―&#98DEFD―&#8ED4FD―&#84C9FD+"
+      - "&#276BFB+&#3176FC―&#3C80FC―&#468BFC―&#5095FC―&#5BA0FC―&#65AAFC―&#6FB4FC―&#79BFFC―&#84C9FD―&#8ED4FD―&#98DEFD―&#A3E9FD―&#ADF3FD―&#A3E9FD―&#98DEFD―&#8ED4FD+"
+      - "&#1D61FB+&#276BFB―&#3176FC―&#3C80FC―&#468BFC―&#5095FC―&#5BA0FC―&#65AAFC―&#6FB4FC―&#79BFFC―&#84C9FD―&#8ED4FD―&#98DEFD―&#A3E9FD―&#ADF3FD―&#A3E9FD―&#98DEFD+"
+      - "&#1256FB+&#1D61FB―&#276BFB―&#3176FC―&#3C80FC―&#468BFC―&#5095FC―&#5BA0FC―&#65AAFC―&#6FB4FC―&#79BFFC―&#84C9FD―&#8ED4FD―&#98DEFD―&#A3E9FD―&#ADF3FD―&#A3E9FD+"
+    1:
+      update-rate: 20 #In ticks
+      lines:
+        - ""
+    2:
+      update-rate: 20 #In ticks
+      lines:
+        - "&a&l▼ &bData:"
+    3:
+      update-rate: 20 #In ticks
+      lines:
+        - "&f● &7Nick: &b%player_name%"
+    4:
+      update-rate: 20 #In ticks
+      lines:
+        - "&f● &7Rank: &b%vault_rank%"
+    5:
+      update-rate: 20 #In ticks
+      lines:
+        - "&f● &7Coins: &e%vault_eco_balance_formatted%"
+    6:
+      update-rate: 20 #In ticks
+      lines:
+        - ""
+    7:
+      update-rate: 20 #In ticks
+      lines:
+        - "&a&l▼ &bExample:"
+    8:
+      update-rate: 20 #In ticks
+      lines:
+        - "&f● &7Lobby: &b#1"
+    9:
+      update-rate: 20 #In ticks
+      lines:
+        - "&f● &7Ping: &b%player_ping%"
+    10:
+      update-rate: 20 #In ticks
+      lines:
+        - "&f● &7Players: &b%bungee_total%"
+    11:
+      update-rate: 20 #In ticks
+      lines:
+        - ""
+    12:
+      update-rate: 1 #In ticks
+      lines:
+        - "       &fs&berver.example"
+        - "       &fse&brver.example"
+        - "       &fser&bver.example"
+        - "       &bs&ferv&ber.example"
+        - "       &bse&frve&br.example"
+        - "       &bser&fver&b.example"
+        - "       &bserv&fer.&bexample"
+        - "       &bserve&fr.e&bxample"
+        - "       &bserver&f.ex&bample"
+        - "       &bserver.&fexa&bmple"
+        - "       &bserver.e&fxam&bple"
+        - "       &bserver.ex&famp&ble"
+        - "       &bserver.exa&fmpl&be"
+        - "       &bserver.exam&fple"
+        - "       &bserver.examp&fle"
+        - "       &bserver.example"
+        - "       &bserver.example"
+        - "       &bserver.example"
+        - "       &bserver.example"
+        - "       &bserver.example"
+        - "       &bserver.example"
+        - "       &bserver.example"
+        - "       &bserver.example"

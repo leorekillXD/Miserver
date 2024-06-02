@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 132.251.3.190
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716829804669
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1717211087761
+  login: 1717211074609
+money: '6400000012802.0'
+last-account-name: elmatapatosxd
+logoutlocation:
+  world: 5100b832-2d76-4f56-a0f3-28a6251aa0fa
+  world-name: lobby
+  x: 44.47764120410822
+  y: -60.0
+  z: 52.073262681879505
+  yaw: -37.277984619140625
+  pitch: 23.25001335144043
+lastlocation:
+  world: 5100b832-2d76-4f56-a0f3-28a6251aa0fa
+  world-name: lobby
+  x: 38.746025658892606
+  y: -50.800470474682946
+  z: 43.22220426516843
+  yaw: -101.55096435546875
+  pitch: 14.250043869018555

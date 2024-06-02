@@ -1,0 +1,9 @@
+New worlds spawn structures: true
+Valid worlds:
+  world: true
+  world_nether: true
+  world_the_end: true
+  lobby: true
+  minapvp: true
+  minapvp1: true
+  mundito: true

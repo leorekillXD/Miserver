@@ -1,0 +1,12 @@
+mode: ACCUMULATE
+expand: 'false'
+world: world
+centerZ: '0'
+centerX: '0'
+biomeLocations: {}
+badLocations: {}
+centerRadius: '64'
+weight: '1.0'
+radius: '256'
+fillIter: 0
+uniquePlacements: 'false'
